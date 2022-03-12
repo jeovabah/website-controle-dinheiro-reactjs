@@ -10,7 +10,7 @@ export const Container = styled.div`
     text-align: center;
 
     background: var(--blue);
-    height: 10rem;
+    height: 12rem;
 
     a { 
         padding: 0.5rem;
