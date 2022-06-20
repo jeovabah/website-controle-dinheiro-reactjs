@@ -16,7 +16,7 @@ export const Footer = () => {
                     </svg>
                 </a>
             </div>
-            <h3>Desenvolvido por Jeová Júnior</h3>
+            <h3>Desenvolvido por Jeová Júnior,Marcos e Rafael</h3>
             
             
         </Container>

@@ -9,7 +9,7 @@ export const Container = styled.div`
     margin-top: 2.5rem;
     text-align: center;
 
-    background: var(--blue);
+    background: orange;
     height: 12rem;
 
     a { 
